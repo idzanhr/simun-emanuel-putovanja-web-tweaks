@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Simun Emanuel Putovanja Web Fixes
-Plugin URI: https://idzan.eu
+Plugin URI: https://idzan.hr
 Description: Advanced fixes for web site
 Author: Idzan Marko
 Version: 1.0
